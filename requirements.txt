@@ -1,7 +1,7 @@
 requests
 openai
 redis
-transformers==4.36.0
+transformers==5.10.1
 setuptools==65.5.1
 numpy
 urllib3==1.26.18
