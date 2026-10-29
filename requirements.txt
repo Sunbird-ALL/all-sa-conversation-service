@@ -2,7 +2,7 @@ requests
 openai
 redis
 transformers==4.36.0
-setuptools==65.5.1
+setuptools==84.1.0
 numpy
 urllib3==1.26.18
 pydantic==1.10.13
